@@ -1,0 +1,17 @@
+
+*{
+    background-color: pink;
+}
+h1{
+    background-color:yellow;
+    color: blue;
+    height: 50px;
+    font-weight: 900;
+}
+button{
+    background-color: blue;
+    color: aliceblue;
+}
+p{
+    font-weight: 500;
+}
